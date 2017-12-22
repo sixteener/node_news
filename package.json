@@ -1,0 +1,26 @@
+{
+  "name": "nodeapi",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "bluebird": "^3.5.1",
+    "body-parser": "~1.18.2",
+    "browser-sync": "^2.19.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "iconv-lite": "^0.4.19",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "querystring": "^0.2.0",
+    "request": "^2.83.0",
+    "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {
+    "gulp-nodemon": "^2.2.1"
+  }
+}
